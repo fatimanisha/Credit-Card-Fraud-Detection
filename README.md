@@ -18,7 +18,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/fatimanisha/Credit-Card-Fraud-Detection.git
 
 2. Install the required dependencies:
 
