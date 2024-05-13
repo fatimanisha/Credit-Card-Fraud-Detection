@@ -7,10 +7,7 @@ Table of Contents
     - Introduction
     - Installation
     - Usage
-    - File Structure
-    - Contributing
-    - License
-
+    
 Introduction
 Credit card fraud is a significant problem affecting financial institutions and consumers worldwide. This project focuses on developing machine learning models to identify fraudulent transactions and prevent financial losses.
 
